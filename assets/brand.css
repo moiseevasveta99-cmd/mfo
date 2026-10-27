@@ -1,0 +1,9 @@
+
+.site-header{min-height:92px}
+.logo--image{display:block;line-height:0}
+.logo--image img{display:block;width:108px!important;height:auto;max-width:none}
+.footer-logo--image{display:block;line-height:0}
+.footer-logo--image img{display:block;width:150px!important;height:auto;max-width:none;filter:none!important}
+.footer-legal{display:grid;align-content:start;gap:12px}
+.footer-legal .footer-policy{color:#dbe5f2;font-size:13px}
+@media (max-width:760px){.site-header{min-height:76px}.logo--image img{width:88px!important}.footer-logo--image img{width:130px!important}}

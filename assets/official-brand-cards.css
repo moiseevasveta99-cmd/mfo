@@ -1,0 +1,15 @@
+
+/* Each lender receives a prominent brand header, not a decorative replacement logo. */
+.loan-card{overflow:hidden;padding:0 14px 14px}
+.loan-card .brand-box{display:flex;align-items:center;justify-content:flex-start;height:96px;margin:0 -14px 12px;padding:15px 16px;background:#f7fbff;border-bottom:1px solid #e1eef9}
+.loan-card .brand-box img{width:100%;max-width:none;height:64px;object-fit:contain;object-position:left center}
+.loan-card .brand-box--icon{justify-content:center}
+.loan-card .brand-box--icon img{width:66px;height:66px;object-position:center}
+.loan-card[data-brand="Умные Наличные"] .brand-box{background:#087c61}
+.loan-card[data-brand="CREDIT7"] .brand-box{background:#17255a}
+.loan-card[data-brand="RocketMan"] .brand-box{background:#2b2353}
+.home-offers .loan-card{min-height:284px;padding:0 12px 12px}
+.home-offers .brand-box{height:86px;margin:0 -12px 9px;padding:13px 14px}
+.home-offers .brand-box img{width:100%;height:58px;transform:none;object-position:left center}
+.home-offers .brand-box--icon img{width:58px;height:58px;object-position:center}
+@media (max-width:760px){.loan-card .brand-box{height:92px}.home-offers .loan-card{min-height:286px}.home-offers .brand-box{height:88px}}

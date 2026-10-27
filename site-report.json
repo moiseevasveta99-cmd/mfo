@@ -1,0 +1,306 @@
+{
+  "generatedAt": "2026-10-17",
+  "urls": [
+    "/",
+    "/zaim-na-kartu/",
+    "/zaim-bez-procentov/",
+    "/zaim-s-plohoi-kreditnoi-istoriei/",
+    "/srochnyy-zaim/",
+    "/zaim-bez-otkaza/",
+    "/zaim-bez-foto-pasporta/",
+    "/zaim-kruglosutochno/",
+    "/zaim-po-pasportu/",
+    "/zaim-bez-zvonkov/",
+    "/zaim-do-zarplaty/",
+    "/mfo/",
+    "/mfo/smartcash/",
+    "/mfo/finterra/",
+    "/mfo/dengi-srazu/",
+    "/mfo/turbozaim/",
+    "/mfo/srochnodengi/",
+    "/mfo/credit7/",
+    "/mfo/ekapusta/",
+    "/mfo/adengi-limit/",
+    "/mfo/rocketman/",
+    "/mfo/moneyman/",
+    "/mfo/oneclickmoney/",
+    "/mfo/bistrodengi/",
+    "/mfo/webzaim/",
+    "/mfo/zaymer/",
+    "/articles/",
+    "/articles/kak-vybrat-zaym/",
+    "/articles/chto-takoe-psk/",
+    "/articles/perviy-zaym-0/",
+    "/articles/pochemu-otkazyvayut/",
+    "/articles/zaim-plohaya-ki/",
+    "/articles/kak-proverit-mfo/",
+    "/articles/maksimalnaya-pereplata-2026/",
+    "/articles/izmeneniya-1-oktyabrya-2026/",
+    "/articles/dopolnitelnye-uslugi-mfo/",
+    "/articles/period-ohlazhdeniya/",
+    "/articles/prosrochka-mikrozayma/",
+    "/articles/dosrochnoe-pogashenie/",
+    "/articles/prolongaciya-zayma/",
+    "/articles/kak-chitat-dogovor-zayma/",
+    "/articles/kak-sravnivat-zaymy-po-filtram/",
+    "/articles/kak-proverit-kreditnuyu-istoriyu/",
+    "/articles/kak-ispravit-kreditnuyu-istoriyu/",
+    "/articles/zaym-nochyu-i-v-vyhodnoy/",
+    "/articles/zaym-bez-zvonkov/",
+    "/articles/karta-ne-prohodit-proverku-mfo/",
+    "/articles/zaym-na-kartu-mir/",
+    "/articles/finansovyi-upolnomochennyi-mfo/",
+    "/articles/sait-dvoinik-mfo/",
+    "/articles/skoring-mfo/",
+    "/articles/plan-vozvrata-zayma/",
+    "/articles/mikrozaym-ili-kredit/",
+    "/articles/zaym-ili-kreditnaya-karta/",
+    "/articles/neskolko-mikrozaymov/",
+    "/articles/navyazannaya-usluga-mfo/",
+    "/articles/otklyuchit-podpisku-podbora-zaymov/",
+    "/articles/mfo-mkk-mfk-raznica/",
+    "/articles/zaym-po-pasportu/",
+    "/articles/stoimost-zayma-10000/",
+    "/articles/odobrili-menshe-summy/",
+    "/articles/otkazatsya-ot-zayma-posle-odobreniya/",
+    "/articles/kak-hranit-dogovor-i-cheki/",
+    "/about/",
+    "/methodology/",
+    "/sources/",
+    "/contacts/",
+    "/privacy/",
+    "/terms/"
+  ],
+  "components": [
+    "Header",
+    "Footer",
+    "HeroLoanCalculator",
+    "TrustBar",
+    "LoanCard",
+    "LoanGrid",
+    "LoanFilters",
+    "LoanSort",
+    "LoanComparisonTable",
+    "CategoryHero",
+    "MfoHero",
+    "MfoTerms",
+    "MfoAdvantages",
+    "MfoRequirements",
+    "MfoLegalInfo",
+    "ArticleCard",
+    "ArticleList",
+    "ArticleLayout",
+    "Breadcrumbs",
+    "FAQ",
+    "RiskDisclaimer",
+    "SeoTextBlock",
+    "RelatedLoans",
+    "RelatedArticles"
+  ],
+  "mfos": [
+    "Умные Наличные",
+    "ФИНТЕРРА",
+    "Деньги Сразу",
+    "Турбозайм",
+    "Срочноденьги",
+    "CREDIT7",
+    "еКапуста",
+    "Альфа‑Деньги",
+    "RocketMan",
+    "MoneyMan",
+    "OneClickMoney",
+    "Быстроденьги",
+    "Вебзайм",
+    "Займер"
+  ],
+  "articles": [
+    {
+      "title": "Как выбрать онлайн-займ и не переплатить",
+      "url": "/articles/kak-vybrat-zaym/"
+    },
+    {
+      "title": "Что такое ПСК займа и почему она важнее рекламной ставки",
+      "url": "/articles/chto-takoe-psk/"
+    },
+    {
+      "title": "Первый займ под 0%: как работает акция",
+      "url": "/articles/perviy-zaym-0/"
+    },
+    {
+      "title": "Почему МФО отказывает в займе",
+      "url": "/articles/pochemu-otkazyvayut/"
+    },
+    {
+      "title": "Можно ли получить займ с плохой кредитной историей",
+      "url": "/articles/zaim-plohaya-ki/"
+    },
+    {
+      "title": "Как проверить МФО в реестре Банка России",
+      "url": "/articles/kak-proverit-mfo/"
+    },
+    {
+      "title": "Максимальная переплата по микрозайму в 2026 году",
+      "url": "/articles/maksimalnaya-pereplata-2026/"
+    },
+    {
+      "title": "Что изменится для микрозаймов с 1 октября 2026 года",
+      "url": "/articles/izmeneniya-1-oktyabrya-2026/"
+    },
+    {
+      "title": "Дополнительные услуги МФО: как увидеть и отказаться",
+      "url": "/articles/dopolnitelnye-uslugi-mfo/"
+    },
+    {
+      "title": "Период охлаждения по кредитам и займам: когда деньги выдаются не сразу",
+      "url": "/articles/period-ohlazhdeniya/"
+    },
+    {
+      "title": "Что будет, если просрочить микрозайм",
+      "url": "/articles/prosrochka-mikrozayma/"
+    },
+    {
+      "title": "Как досрочно погасить микрозайм",
+      "url": "/articles/dosrochnoe-pogashenie/"
+    },
+    {
+      "title": "Что такое пролонгация микрозайма",
+      "url": "/articles/prolongaciya-zayma/"
+    },
+    {
+      "title": "Как читать индивидуальные условия договора займа",
+      "url": "/articles/kak-chitat-dogovor-zayma/"
+    },
+    {
+      "title": "Как сравнивать займы по фильтрам",
+      "url": "/articles/kak-sravnivat-zaymy-po-filtram/"
+    },
+    {
+      "title": "Как проверить свою кредитную историю",
+      "url": "/articles/kak-proverit-kreditnuyu-istoriyu/"
+    },
+    {
+      "title": "Как исправить ошибку в кредитной истории",
+      "url": "/articles/kak-ispravit-kreditnuyu-istoriyu/"
+    },
+    {
+      "title": "Можно ли получить онлайн-займ ночью или в выходной",
+      "url": "/articles/zaym-nochyu-i-v-vyhodnoy/"
+    },
+    {
+      "title": "Можно ли оформить займ без звонка оператора",
+      "url": "/articles/zaym-bez-zvonkov/"
+    },
+    {
+      "title": "Почему банковская карта не проходит проверку МФО",
+      "url": "/articles/karta-ne-prohodit-proverku-mfo/"
+    },
+    {
+      "title": "Можно ли получить займ на карту «Мир»",
+      "url": "/articles/zaym-na-kartu-mir/"
+    },
+    {
+      "title": "Как обратиться к финансовому уполномоченному по спору с МФО",
+      "url": "/articles/finansovyi-upolnomochennyi-mfo/"
+    },
+    {
+      "title": "Как распознать сайт-двойник МФО",
+      "url": "/articles/sait-dvoinik-mfo/"
+    },
+    {
+      "title": "Как работает скоринг МФО",
+      "url": "/articles/skoring-mfo/"
+    },
+    {
+      "title": "Как составить план возврата займа до оформления",
+      "url": "/articles/plan-vozvrata-zayma/"
+    },
+    {
+      "title": "Чем микрозайм отличается от банковского кредита",
+      "url": "/articles/mikrozaym-ili-kredit/"
+    },
+    {
+      "title": "Микрозайм или кредитная карта: что учитывать",
+      "url": "/articles/zaym-ili-kreditnaya-karta/"
+    },
+    {
+      "title": "Можно ли иметь несколько микрозаймов одновременно",
+      "url": "/articles/neskolko-mikrozaymov/"
+    },
+    {
+      "title": "Что делать, если при займе навязали платную услугу",
+      "url": "/articles/navyazannaya-usluga-mfo/"
+    },
+    {
+      "title": "Как отключить платную подписку сервиса подбора займов",
+      "url": "/articles/otklyuchit-podpisku-podbora-zaymov/"
+    },
+    {
+      "title": "МФО, МКК и МФК: в чем разница",
+      "url": "/articles/mfo-mkk-mfk-raznica/"
+    },
+    {
+      "title": "Займ по паспорту: что это означает",
+      "url": "/articles/zaym-po-pasportu/"
+    },
+    {
+      "title": "Сколько реально стоит займ 10 000 ₽",
+      "url": "/articles/stoimost-zayma-10000/"
+    },
+    {
+      "title": "Почему одобрили меньше суммы, чем вы запросили",
+      "url": "/articles/odobrili-menshe-summy/"
+    },
+    {
+      "title": "Можно ли отказаться от займа после одобрения",
+      "url": "/articles/otkazatsya-ot-zayma-posle-odobreniya/"
+    },
+    {
+      "title": "Как хранить договор и подтверждения платежей по займу",
+      "url": "/articles/kak-hranit-dogovor-i-cheki/"
+    }
+  ],
+  "logos": [
+    "/brands/smartcash.svg",
+    "/brands/finterra.svg",
+    "/brands/dengi-srazu.svg",
+    "/brands/turbozaim.svg",
+    "/brands/srochnodengi.svg",
+    "/brands/credit7.svg",
+    "/brands/ekapusta.svg",
+    "/brands/adengi.svg",
+    "/brands/rocketman.svg",
+    "/brands/moneyman.svg",
+    "/brands/oneclickmoney.svg",
+    "/brands/bistrodengi.svg",
+    "/brands/webzaim.svg",
+    "/brands/zaymer.svg"
+  ],
+  "verifyBeforePublish": [
+    {
+      "brand": "Деньги Сразу",
+      "field": "rate"
+    },
+    {
+      "brand": "Деньги Сразу",
+      "field": "psk"
+    },
+    {
+      "brand": "RocketMan",
+      "field": "psk"
+    },
+    {
+      "brand": "OneClickMoney",
+      "field": "psk"
+    },
+    {
+      "brand": "Вебзайм",
+      "field": "psk"
+    },
+    {
+      "brand": "Вебзайм",
+      "field": "rate"
+    }
+  ],
+  "outboundLinks": "Outbound buttons use outbound_url when it is specified; otherwise they lead to the lender's official website.",
+  "domain": "https://finyasno.ru"
+}
